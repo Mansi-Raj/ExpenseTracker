@@ -168,7 +168,7 @@ ul li:hover {
 }
 
 .name {
-  flex: 1;
+  flex: 2;
 }
 
 .name h4 {
@@ -177,9 +177,16 @@ ul li:hover {
   text-transform: capitalize;
 }
 
-.reason{
+.reason {
+    flex: 2;
+    font-style: italic;
+    color: #888;
+  }
+  
+  .amount {
     flex: 1;
-}
+    text-align: right;
+  }s
 
 .name p {
   font-size: 0.8rem;
