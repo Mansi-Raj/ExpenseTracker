@@ -178,7 +178,7 @@ ul li:hover {
 }
 
 .reason {
-    flex: 2;
+    flex: 1;
     font-style: italic;
     color: #888;
   }
